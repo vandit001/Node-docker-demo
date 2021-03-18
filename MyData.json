@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mike11",
+    "age": 23,
+    "gender": "Male",
+    "department": "English",
+    "car": "Honda"
+  },
+  {
+    "id": 2,
+    "name": "User1",
+    "age": 23,
+    "gender": "Male",
+    "department": "English",
+    "car": "Honda City"
+  },
+  {
+    "id": 3,
+    "name": "User2",
+    "age": 23,
+    "gender": "Male",
+    "department": "English",
+    "car": "Honda City"
+  }
+]
